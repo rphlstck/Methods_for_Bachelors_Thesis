@@ -1,4 +1,4 @@
-# Methods_for_Bachelors_Thesis
+# Methods for Bachelors Thesis
 This are the methods I used in my Bachelors thesis
 
 In the file "Methods_BA.py" the functions I used for preparing, calculating and plotting the data are implemented.
